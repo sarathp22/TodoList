@@ -80,7 +80,7 @@ var countChecked = function() {
   };
   countChecked().then((s)=>alert(s));
    
-  $( "input[type=checkbox]" ).on( "click", countChecked );
+//   $( "input[type=checkbox]" ).on( "click", countChecked );
 console.log(n);
 });
 
